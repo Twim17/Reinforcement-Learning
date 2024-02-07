@@ -1,2 +1,2 @@
-Re-implementation of the paper DreamerV2 (paper MASTERING ATARI WITH DISCRETE WORLD MODELS).
+Re-implementation of the paper DreamerV2 (paper MASTERING ATARI WITH DISCRETE WORLD MODELS [https://arxiv.org/pdf/2010.02193.pdf]).
 The model was used with MinAtar for convenience but can also be used on a normal environment.
